@@ -14,8 +14,7 @@
     "animate.css": "^3.5.2",
     "font-awesome": "^4.7.0",
     "jquery": "^3.4.1",
-    "swing": "^4.0.1",
-    "swipebox": "^1.4.6"
+    "swing": "^4.0.1"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
