@@ -871,9 +871,14 @@ input {
   height:150px;
 }
 
-@media (max-width: 800px) and (min-width: 500px) {
+@media (max-width: 1000px) {
   .body-blog {
     height: 200px;
+  }
+}
+@media (max-width: 400px) {
+  .body-blog {
+    height: 150px;
   }
 }
 /*
