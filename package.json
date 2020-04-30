@@ -13,7 +13,7 @@
   "dependencies": {
     "animate.css": "^3.5.2",
     "font-awesome": "^4.7.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "swing": "^4.0.1"
   },
   "devDependencies": {
